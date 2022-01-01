@@ -25,15 +25,6 @@
 <img alt="NextJS" src="https://img.shields.io/badge/Next JS-5aabe8.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 
 <details>
-<summary>:zap: Statistics:</summary>
-
-<img  align="left"  alt="codeSTACKr's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=13redfox&langs_count=8&layout=compact"  />
-
-<br  />
-
-<img  align="left"  alt="codeSTACKr's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=13redfox&show_icons=true"  />
-
-<details>
   <summary>:zap: Statistics:</summary>
   
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13redfox&langs_count=8&layout=compact" />
