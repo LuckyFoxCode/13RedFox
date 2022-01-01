@@ -1,53 +1,68 @@
-### Hi there 👋, I'm Serhii
+## Hi there, I'm Serhii 👋
 
-## I'm FrontEnd Developer.
+# I'm Front-end Developer.
 
+- 📍I'm from Ukraine (Kremenchuk)
+- 💻 6+ Mounth Experience in Front-end Development
 - 🧑‍💻 I like to write code
 - 🚲 I love to ride a bike and listen to music
 
-### Connect with me:
+## 🤝 Connect with me:
 
-[<img aligh="left" alt="Serhii Shabala | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />](https://www.linkedin.com/in/13redfox/)
-[<img aligh="left" alt="Serhii Shabala | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />](https://www.instagram.com/gtcunningfox/)
-[<img aligh="left" alt="Serhii Shabala | Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" />](https://t.me/gtCunningFox)
-[<img aligh="left" alt="Serhii Shabala | Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />](sergei181989@gmail.com)
+[<img alt="13RedFox | LinkedIn" src="https://img.shields.io/badge/LinkedIn-1a5ad9.svg?&style=for-for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
+[<img alt="13RedFox | Telegram" src="https://img.shields.io/badge/Instagram-e88274.svg?&style=for-for-the-badge&logo=Instagram&logoColor=fff" />][telegram]
+[<img alt="13RedFox | Instagram" src="https://img.shields.io/badge/Telegram-4b81eb.svg?&style=for-for-the-badge&logo=telegram&logoColor=fff" />][instagram]
 
-### Languages and Tools:
+## 💻 Tech Stack:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-5aabe8.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-5aabe8.svg?&style=for-the-badge&logo=CSS3&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="SASS" src="https://img.shields.io/badge/SCSS-5aabe8.svg?&style=for-the-badge&logo=SASS&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-5aabe8.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5aabe8.svg?&style=for-the-badge&logo=TypeScript&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="React" src="https://img.shields.io/badge/React-5aabe8.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="Redux" src="https://img.shields.io/badge/Redux-5aabe8.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="NextJS" src="https://img.shields.io/badge/Next JS-5aabe8.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 
 <details>
-  <summary>:zap: Statistics:</summary>
-  
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13redfox&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=13redfox&show_icons=true" />
+<summary>:zap: Statistics:</summary>
+
+<img  align="left"  alt="codeSTACKr's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=13redfox&langs_count=8&layout=compact"  />
+
+<br  />
+
+<img  align="left"  alt="codeSTACKr's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=13redfox&show_icons=true"  />
+
 </details>
+
 <!--
+
 **13RedFox/13RedFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
+
+
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
-  -->
+
+-->
+
+[linkedin]: https://www.linkedin.com/in/13redfox/
+[telegram]: https://t.me/gtCunningFox
+[instagram]: https://www.instagram.com/gtcunningfox
