@@ -3,7 +3,7 @@
 # I'm Front-end Developer.
 
 - 📍I'm from Ukraine (Kremenchuk)
-- 💻 6+ Mounth Experience in Front-end Development
+- 💻 6+ Month Experience in Front-end Development
 - 🧑‍💻 I like to write code
 - 🚲 I love to ride a bike and listen to music
 
@@ -23,6 +23,7 @@
 <img alt="React" src="https://img.shields.io/badge/React-476072.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=03506F" />&nbsp;
 <img alt="Redux" src="https://img.shields.io/badge/Redux-476072.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=52057B" />&nbsp;
 <img alt="NextJS" src="https://img.shields.io/badge/Next JS-476072.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=E97878" />&nbsp;
+<img alt="Storybook" src="https://img.shields.io/badge/Storybook-476072.svg?&style=for-the-badge&logo=storybook&logoColor=fff&logoWidth=20&labelColor=F2789F" />&nbsp;
 
 ## 🚧 Projects:
 
