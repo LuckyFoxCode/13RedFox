@@ -27,15 +27,8 @@
 
 ## 🚧 Projects:
 
-<div>
-  <a href="https://github.com/13RedFox/project_musik-concert">
-  <img alt="GitHub" src="https://img.shields.io/badge/github - music-476072.svg?&style=for-the-badge&logo=github&logoColor=fff&logoWidth=20&labelColor=F2789F" />&nbsp;
-  </a>
-  <br />
-  <a href="https://project-musik.netlify.app/">
-  <img alt="Netlify" src="https://img.shields.io/badge/netlify - music-476072.svg?&style=for-the-badge&logo=netlify&logoColor=fff&logoWidth=20&labelColor=F2789F" />&nbsp;
-  </a>
-</div>
+[<img alt="13RedFox | GitHub" src="https://img.shields.io/badge/project:_MUSIC-4700F6.svg?&style=for-for-the-badge&logo=github&logoColor=fff" />][music]&nbsp;
+[<img alt="13RedFox | GitHub" src="https://img.shields.io/badge/project:_STAN'S-06B25F.svg?&style=for-for-the-badge&logo=github&logoColor=fff" />][stans]
 
 ## ⚡ Statistics and Languages:
 
@@ -71,3 +64,5 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/13redfox/
 [telegram]: https://t.me/gtCunningFox
 [instagram]: https://www.instagram.com/gtcunningfox
+[stans]: https://github.com/13RedFox/project_stants_assets
+[music]: https://github.com/13RedFox/project_musik-concert
