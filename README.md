@@ -1,20 +1,20 @@
 ## Hi there, I'm Serhii 👋
 
-<!--
-# I'm Front-end Developer.
 
-- 📍I'm from Ukraine (Kremenchuk)
+# Junior Front-end Developer.
+
+- 📍 Ukraine (Kremenchuk)
 - 💻 6+ Month Experience in Front-end Development
 - 🧑‍💻 I like to write code
 - 🚲 I love to ride a bike and listen to music 
 
--->
+
 ## 🤝 Connect with me:
 [<img alt="13RedFox | LinkedIn" src="https://img.shields.io/badge/LinkedIn-1a5ad9.svg?&style=for-for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
-[<img alt="13RedFox | Telegram" src="https://img.shields.io/badge/Instagram-e88274.svg?&style=for-for-the-badge&logo=Instagram&logoColor=fff" />][telegram]
-[<img alt="13RedFox | Instagram" src="https://img.shields.io/badge/Telegram-4b81eb.svg?&style=for-for-the-badge&logo=telegram&logoColor=fff" />][instagram]
+[<img alt="13RedFox | Telegram" src="https://img.shields.io/badge/Telegram-4b81eb.svg?&style=for-for-the-badge&logo=telegram&logoColor=fff" />][telegram]
+[<img alt="13RedFox | Instagram" src="https://img.shields.io/badge/Instagram-e88274.svg?&style=for-for-the-badge&logo=Instagram&logoColor=fff" />][instagram]
 
-<!--
+
 ## 💻 Tech Stack:
 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-476072.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=FF5403" />&nbsp;
@@ -29,31 +29,24 @@
 
 ## 🚧 Projects:
 
-[<img alt="13RedFox | GitHub" src="https://img.shields.io/badge/project:_MUSIC-4700F6.svg?&style=for-for-the-badge&logo=github&logoColor=fff" />][music]&nbsp;
-[<img alt="13RedFox | GitHub" src="https://img.shields.io/badge/project:_STAN'S-06B25F.svg?&style=for-for-the-badge&logo=github&logoColor=fff" />][stans]
+[<img alt="13RedFox | GitHub" src="https://img.shields.io/badge/project: music-4700F6.svg?&style=for-for-the-badge&logo=github&logoColor=fff" />][music]&nbsp;
+[<img alt="13RedFox | GitHub" src="https://img.shields.io/badge/project:_todos-06B25F.svg?&style=for-for-the-badge&logo=github&logoColor=fff" />][todos]&nbsp;
+[<img alt="13RedFox | GitHub" src="https://img.shields.io/badge/project: library-FF66CC.svg?&style=for-for-the-badge&logo=github&logoColor=fff" />][library]
 
--->
+
 
 ## ⚡ Statistics and Languages:
 
 <p align="center">
   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=13redfox&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <!-- wi*quL3fcV -->
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13redfox&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-<img src="https://www.codewars.com/users/13RedFox/badges/large" alt="Codewars" />
   
+<img src="https://www.codewars.com/users/13RedFox/badges/large" alt="Codewars" />
 </p>
-
-<!--
-
-**13RedFox/13RedFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
 
 [linkedin]: https://www.linkedin.com/in/13redfox/
 [telegram]: https://t.me/gtCunningFox
 [instagram]: https://www.instagram.com/gtcunningfox
-[stans]: https://github.com/13RedFox/project_stants_assets
+[todos]: https://github.com/13RedFox/todos_typescript
 [music]: https://github.com/13RedFox/project_musik-concert
+[library]: https://github.com/13RedFox/library
